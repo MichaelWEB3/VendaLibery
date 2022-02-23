@@ -2,11 +2,13 @@ import styled from "styled-components"
 import { motion } from "framer-motion"
 
 
+
 export const Principaldiv = styled(motion.div)`
 position: relative;
 overflow:hidden;
 border-radius: 15px;
 perspective:1000px;
+
 cursor: pointer;
 
 `
@@ -43,12 +45,7 @@ export const ImgLogo = styled.img`
 width: 3vw;
 
 `
-export const Tenis = styled.img`
-z-index:60;
-top:10vh;
-width: 17vw;
-position: absolute;
-transform: rotate(-45deg); 
+export const Tenis = styled(motion.div)`
 
 
 `
