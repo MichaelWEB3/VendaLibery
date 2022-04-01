@@ -1,4 +1,3 @@
-import styled from "styled-components"
 import CardProduct from "../components/cadProduct"
 export default function Home() {
   return (

@@ -1,19 +1,15 @@
 import styled from "styled-components"
-import { motion } from "framer-motion"
 
 
 
-export const Principaldiv = styled(motion.div)`
+export const Principaldiv = styled.div`
 position: relative;
 overflow:hidden;
 border-radius: 15px;
-perspective:1000px;
-
 cursor: pointer;
 
 `
 export const Divworld = styled.div`
-
 
 `
 export const Span = styled.span`
@@ -45,7 +41,7 @@ export const ImgLogo = styled.img`
 width: 3vw;
 
 `
-export const Tenis = styled(motion.div)`
+export const Tenis = styled.div`
 
 
 `
