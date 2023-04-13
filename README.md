@@ -1,9 +1,8 @@
 
 # Card de Loja  💻 
  🖊 
-Carde de loja morderno que se ajusta ao passaar o mouse.
+Card de loja morderno que se ajusta ao passaar o mouse.
 
-Interactive clock !!!!
 ## Funcionalidades   💎 
 
 
